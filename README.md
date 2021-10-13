@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @eigitalcjp
-- 👀 I’m interested in YOU
 - 🌱 I’m currently learning Flutter Automation, Cypress
 - 💞️ I’m looking to collaborate with EM
 - 📫 How to reach me 
